@@ -1,7 +1,3 @@
-# Data files (large CSVs)
-data/*.csv
-!data/.gitkeep
-
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb_checkpoints
